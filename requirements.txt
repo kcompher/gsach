@@ -42,7 +42,7 @@ nb-conda-kernels==2.2.1
 nbconvert==5.4.1
 nbformat==4.4.0
 notebook==5.7.5
-numpy==1.12.0
+numpy==1.21.0
 pandas==0.19.2
 pandas-datareader==0.3.0.post0
 pandocfilters==1.4.2
